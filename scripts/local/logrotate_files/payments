@@ -1,0 +1,6 @@
+/logs/liberty/payments/payments.log {
+    missingok
+    notifempty
+    daily
+    create 0755 wasadmin wasusers
+}

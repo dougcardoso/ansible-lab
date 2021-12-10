@@ -1,0 +1,274 @@
+########################################################
+# Script to inventary DBB liberty servers #
+# DBB servers #
+# script path: /home/wasadmin/maintence/scripts/ #
+# script name: DBB_all_servers_cpu_mem_disk_Info.sh #
+# run ./DBB_all_servers_cpu_mem_disk_Info.sh #
+# runs with wasadmin user #
+# Author: Douglas Cardoso #
+# Wipro/AIB - Websphere Team #
+# ph: +353 874597272 / douglas.x.cardoso@aib.ie #
+# 10-01-2019 /ver 1.0 #
+########################################################
+STARTING CHECK SSH for DBB PREPROD SERVERS...
+10.9.8.221
+**connection backlog** recommend value 3000:
+1000
+128
+**TCP_KEEPALIVE_INTERVAL** recommend value 15
+75
+**TCP_KEEPALIVE_PROBES** recommend value 5
+9
+=====================================
+script processing... rhdbbzulgm1.mid.aib.pri
+10.237.64.93
+**connection backlog** recommend value 3000:
+1000
+128
+**TCP_KEEPALIVE_INTERVAL** recommend value 15
+75
+**TCP_KEEPALIVE_PROBES** recommend value 5
+9
+=====================================
+script processing... rhdbbdbsomvt1.mid.aib.pri
+10.9.8.222
+**connection backlog** recommend value 3000:
+1000
+128
+**TCP_KEEPALIVE_INTERVAL** recommend value 15
+75
+**TCP_KEEPALIVE_PROBES** recommend value 5
+9
+=====================================
+script processing... rhdbbcxpgm1.mid.aib.pri
+10.9.8.223
+**connection backlog** recommend value 3000:
+1000
+128
+**TCP_KEEPALIVE_INTERVAL** recommend value 15
+75
+**TCP_KEEPALIVE_PROBES** recommend value 5
+9
+=====================================
+script processing... rhdbbauthgm1.mid.aib.pri
+10.9.8.224
+**connection backlog** recommend value 3000:
+1000
+128
+**TCP_KEEPALIVE_INTERVAL** recommend value 15
+75
+**TCP_KEEPALIVE_PROBES** recommend value 5
+9
+=====================================
+script processing... rhdbbzulgm2.mid.aib.pri
+10.237.64.98
+**connection backlog** recommend value 3000:
+1000
+128
+**TCP_KEEPALIVE_INTERVAL** recommend value 15
+75
+**TCP_KEEPALIVE_PROBES** recommend value 5
+9
+=====================================
+script processing... rhdbbdbsalvt1.mid.aib.pri
+10.9.8.225
+**connection backlog** recommend value 3000:
+1000
+128
+**TCP_KEEPALIVE_INTERVAL** recommend value 15
+75
+**TCP_KEEPALIVE_PROBES** recommend value 5
+9
+=====================================
+script processing... rhdbbcxpgm2.mid.aib.pri
+10.9.8.226
+**connection backlog** recommend value 3000:
+1000
+128
+**TCP_KEEPALIVE_INTERVAL** recommend value 15
+75
+**TCP_KEEPALIVE_PROBES** recommend value 5
+9
+=====================================
+script processing... rhdbbauthgm2.mid.aib.pri
+10.237.64.90
+**connection backlog** recommend value 3000:
+1000
+128
+**TCP_KEEPALIVE_INTERVAL** recommend value 15
+75
+**TCP_KEEPALIVE_PROBES** recommend value 5
+9
+=====================================
+script processing... rhdbbintalvt1.mid.aib.pri
+10.237.64.91
+**connection backlog** recommend value 3000:
+1000
+128
+**TCP_KEEPALIVE_INTERVAL** recommend value 15
+75
+**TCP_KEEPALIVE_PROBES** recommend value 5
+9
+=====================================
+script processing... rhdbbintomvt1.mid.aib.pri
+10.237.64.1
+**connection backlog** recommend value 3000:
+1000
+128
+**TCP_KEEPALIVE_INTERVAL** recommend value 15
+75
+**TCP_KEEPALIVE_PROBES** recommend value 5
+9
+=====================================
+script processing... rhdbbbisalvt2.mid.aib.pri
+10.237.64.5
+**connection backlog** recommend value 3000:
+1000
+128
+**TCP_KEEPALIVE_INTERVAL** recommend value 15
+75
+**TCP_KEEPALIVE_PROBES** recommend value 5
+9
+=====================================
+script processing... rhdbbbisomvt2.mid.aib.pri
+10.237.64.3
+**connection backlog** recommend value 3000:
+1000
+128
+**TCP_KEEPALIVE_INTERVAL** recommend value 15
+75
+**TCP_KEEPALIVE_PROBES** recommend value 5
+9
+=====================================
+script processing... rhdbbbisalvt1.mid.aib.pri
+10.237.64.4
+**connection backlog** recommend value 3000:
+1000
+128
+**TCP_KEEPALIVE_INTERVAL** recommend value 15
+75
+**TCP_KEEPALIVE_PROBES** recommend value 5
+9
+=====================================
+script processing... rhdbbbisomvt1.mid.aib.pri
+10.237.64.7
+**connection backlog** recommend value 3000:
+1000
+128
+**TCP_KEEPALIVE_INTERVAL** recommend value 15
+75
+**TCP_KEEPALIVE_PROBES** recommend value 5
+9
+=====================================
+script processing... rhdbbpdsomvt1.mid.aib.pri
+10.237.64.8
+**connection backlog** recommend value 3000:
+1000
+128
+**TCP_KEEPALIVE_INTERVAL** recommend value 15
+75
+**TCP_KEEPALIVE_PROBES** recommend value 5
+9
+=====================================
+script processing... rhdbbpdsalvt1.mid.aib.pri
+10.237.64.9
+**connection backlog** recommend value 3000:
+1000
+128
+**TCP_KEEPALIVE_INTERVAL** recommend value 15
+75
+**TCP_KEEPALIVE_PROBES** recommend value 5
+9
+=====================================
+script processing... rhdbbentomvt1.mid.aib.pri
+10.237.64.10
+**connection backlog** recommend value 3000:
+1000
+128
+**TCP_KEEPALIVE_INTERVAL** recommend value 15
+75
+**TCP_KEEPALIVE_PROBES** recommend value 5
+9
+=====================================
+script processing... rhdbbentalvt1.mid.aib.pri
+10.237.64.11
+**connection backlog** recommend value 3000:
+1000
+128
+**TCP_KEEPALIVE_INTERVAL** recommend value 15
+75
+**TCP_KEEPALIVE_PROBES** recommend value 5
+9
+=====================================
+script processing... rhdbbexpalvt1.mid.aib.pri
+10.237.64.6
+**connection backlog** recommend value 3000:
+1000
+128
+**TCP_KEEPALIVE_INTERVAL** recommend value 15
+75
+**TCP_KEEPALIVE_PROBES** recommend value 5
+9
+=====================================
+script processing... rhdbbexpomvt1.mid.aib.pri
+10.237.64.12
+**connection backlog** recommend value 3000:
+1000
+128
+**TCP_KEEPALIVE_INTERVAL** recommend value 15
+75
+**TCP_KEEPALIVE_PROBES** recommend value 5
+9
+=====================================
+script processing... rhdbbetlalvt1.mid.aib.pri
+10.237.64.13
+**connection backlog** recommend value 3000:
+1000
+128
+**TCP_KEEPALIVE_INTERVAL** recommend value 15
+75
+**TCP_KEEPALIVE_PROBES** recommend value 5
+9
+=====================================
+script processing... rhdbbetlomvt1.mid.aib.pri
+10.237.64.14
+**connection backlog** recommend value 3000:
+1000
+128
+**TCP_KEEPALIVE_INTERVAL** recommend value 15
+75
+**TCP_KEEPALIVE_PROBES** recommend value 5
+9
+=====================================
+script processing... rhdbbdbsalvt2.mid.aib.pri
+10.237.64.15
+**connection backlog** recommend value 3000:
+1000
+128
+**TCP_KEEPALIVE_INTERVAL** recommend value 15
+75
+**TCP_KEEPALIVE_PROBES** recommend value 5
+9
+=====================================
+script processing... rhdbbdbsomvt2.mid.aib.pri
+10.9.7.10
+**connection backlog** recommend value 3000:
+1000
+128
+**TCP_KEEPALIVE_INTERVAL** recommend value 15
+75
+**TCP_KEEPALIVE_PROBES** recommend value 5
+9
+=====================================
+script processing... rhdbbcxpgm3.mid.aib.pri
+10.9.7.11
+**connection backlog** recommend value 3000:
+1000
+128
+**TCP_KEEPALIVE_INTERVAL** recommend value 15
+75
+**TCP_KEEPALIVE_PROBES** recommend value 5
+9
+=====================================
+script processing... rhdbbcxpgm4.mid.aib.pri
+Script done!

@@ -1,0 +1,6 @@
+/logs/liberty/auth/auth.log {
+    missingok
+    notifempty
+    daily
+    create 0755 wasadmin wasusers
+}

@@ -1,0 +1,1 @@
+ssh rhdbbetlalvt1.mid.aib.pri "cd /opt/liberty/wlp/usr/servers/migrator/; java -jar migrator.jar --spring.profiles.active=preprod-alpha-mask  --application.target=DefaultRunner --application.secret=A71F3FC471D41721A67E64E5518CB"

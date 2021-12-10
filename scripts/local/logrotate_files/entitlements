@@ -1,0 +1,6 @@
+/logs/liberty/entitlements/entitlements.log {
+    missingok
+    notifempty
+    daily
+    create 0755 wasadmin wasusers
+}

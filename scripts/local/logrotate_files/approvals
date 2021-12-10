@@ -1,0 +1,5 @@
+/logs/liberty/approvals/approvals.log {
+    missingok
+    notifempty
+    daily
+    create 0755 wasadmin wasusers

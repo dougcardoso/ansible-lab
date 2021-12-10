@@ -1,0 +1,5 @@
+ssh rhdbbzulgm1.mid.aib.pri "sudo /opt/liberty/scripts/maintenance/Divert_Traffic.ksh INTERNAL 8443 10.9.8.225 10.9.7.10 10.9.8.226 10.237.64.98 10.237.64.14 10.9.7.55 10.237.64.26"
+ssh rhdbbauthgm1.mid.aib.pri "sudo /opt/liberty/scripts/maintenance/Divert_Traffic.ksh INTERNAL 9446 10.9.7.66 10.9.0.69 10.9.0.60 10.9.0.62 10.9.8.60"
+ssh rhdbbauthgm4.mid.aib.pri "sudo /opt/liberty/scripts/maintenance/Divert_Traffic.ksh INTERNAL 9446 10.9.7.66 10.9.0.69 10.9.0.60 10.9.0.62 10.9.8.60"
+ssh rhdbbauthgm1.mid.aib.pri "sudo /opt/liberty/scripts/maintenance/Divert_Traffic.ksh INTERNAL 9446 10.9.0.250 10.9.0.69 10.9.0.60 10.9.0.62"
+ssh rhdbbauthgm4.mid.aib.pri "sudo /opt/liberty/scripts/maintenance/Divert_Traffic.ksh INTERNAL 9446 10.9.0.250 10.9.0.69 10.9.0.60 10.9.0.62" 

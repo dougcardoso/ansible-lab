@@ -1,0 +1,6 @@
+/logs/liberty/contacts/contacts.log {
+    missingok
+    notifempty
+    daily
+    create 0755 wasadmin wasusers
+}

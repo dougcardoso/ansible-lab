@@ -1,0 +1,9 @@
+CWWKE0005E: The runtime environment could not be launched.
+CWWKE0010E: The required server.xml file must exist and be readable. Path: /opt/liberty/wlp/usr/servers/defaultServer/server.xml Reason: file not found
+                 Java home:  /usr/lib/jvm/java-1.8.0
+              Install root:  /opt/liberty/wlp/
+          System libraries:  /opt/liberty/wlp/lib/
+                 User root:  /opt/liberty/wlp/usr/
+                    Config:  /opt/liberty/wlp/usr/servers/defaultServer/
+                    Output:  /opt/liberty/wlp/usr/servers/defaultServer/
+
